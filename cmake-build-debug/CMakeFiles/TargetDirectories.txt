@@ -1,0 +1,3 @@
+/home/yangyao/CLionProjects/yzip-2/diploma_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yangyao/CLionProjects/yzip-2/diploma_project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yangyao/CLionProjects/yzip-2/diploma_project/cmake-build-debug/CMakeFiles/yzip.dir

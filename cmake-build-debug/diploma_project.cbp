@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="diploma_project"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/yangyao/CLionProjects/yzip-2/diploma_project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/yangyao/CLionProjects/yzip-2/diploma_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/yangyao/CLionProjects/yzip-2/diploma_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/yangyao/CLionProjects/yzip-2/diploma_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/yangyao/CLionProjects/yzip-2/diploma_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/yangyao/CLionProjects/yzip-2/diploma_project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/yangyao/CLionProjects/yzip-2/diploma_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/yangyao/CLionProjects/yzip-2/diploma_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/yangyao/CLionProjects/yzip-2/diploma_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/yangyao/CLionProjects/yzip-2/diploma_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/yangyao/CLionProjects/yzip-2/diploma_project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/yangyao/CLionProjects/yzip-2/diploma_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/yangyao/CLionProjects/yzip-2/diploma_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/yangyao/CLionProjects/yzip-2/diploma_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/yangyao/CLionProjects/yzip-2/diploma_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="yzip">
+				<Option output="/home/yangyao/CLionProjects/yzip-2/diploma_project/cmake-build-debug/yzip" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yangyao/CLionProjects/yzip-2/diploma_project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.2.0/../../../../include/c++/11.2.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.2.0/../../../../include/c++/11.2.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.2.0/../../../../include/c++/11.2.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.2.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.2.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/yangyao/CLionProjects/yzip-2/diploma_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 yzip"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/yangyao/CLionProjects/yzip-2/diploma_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/yangyao/CLionProjects/yzip-2/diploma_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/yangyao/CLionProjects/yzip-2/diploma_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="yzip/fast">
+				<Option output="/home/yangyao/CLionProjects/yzip-2/diploma_project/cmake-build-debug/yzip" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yangyao/CLionProjects/yzip-2/diploma_project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.2.0/../../../../include/c++/11.2.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.2.0/../../../../include/c++/11.2.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.2.0/../../../../include/c++/11.2.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.2.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.2.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/yangyao/CLionProjects/yzip-2/diploma_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 yzip/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/yangyao/CLionProjects/yzip-2/diploma_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/yangyao/CLionProjects/yzip-2/diploma_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/yangyao/CLionProjects/yzip-2/diploma_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/yangyao/CLionProjects/yzip-2/diploma_project/bitfile/bitfile.cpp">
+			<Option target="yzip"/>
+		</Unit>
+		<Unit filename="/home/yangyao/CLionProjects/yzip-2/diploma_project/bitfile/bitfile.h">
+			<Option target="yzip"/>
+		</Unit>
+		<Unit filename="/home/yangyao/CLionProjects/yzip-2/diploma_project/encryption/aes_128_cbc.cpp">
+			<Option target="yzip"/>
+		</Unit>
+		<Unit filename="/home/yangyao/CLionProjects/yzip-2/diploma_project/encryption/aes_128_cbc.h">
+			<Option target="yzip"/>
+		</Unit>
+		<Unit filename="/home/yangyao/CLionProjects/yzip-2/diploma_project/encryption/encryption.cpp">
+			<Option target="yzip"/>
+		</Unit>
+		<Unit filename="/home/yangyao/CLionProjects/yzip-2/diploma_project/encryption/encryption.h">
+			<Option target="yzip"/>
+		</Unit>
+		<Unit filename="/home/yangyao/CLionProjects/yzip-2/diploma_project/endswith/endswith.cpp">
+			<Option target="yzip"/>
+		</Unit>
+		<Unit filename="/home/yangyao/CLionProjects/yzip-2/diploma_project/endswith/endswith.h">
+			<Option target="yzip"/>
+		</Unit>
+		<Unit filename="/home/yangyao/CLionProjects/yzip-2/diploma_project/error/error.cpp">
+			<Option target="yzip"/>
+		</Unit>
+		<Unit filename="/home/yangyao/CLionProjects/yzip-2/diploma_project/error/error.h">
+			<Option target="yzip"/>
+		</Unit>
+		<Unit filename="/home/yangyao/CLionProjects/yzip-2/diploma_project/file_handle/file_handle.cpp">
+			<Option target="yzip"/>
+		</Unit>
+		<Unit filename="/home/yangyao/CLionProjects/yzip-2/diploma_project/file_handle/file_handle.h">
+			<Option target="yzip"/>
+		</Unit>
+		<Unit filename="/home/yangyao/CLionProjects/yzip-2/diploma_project/file_info_struct.h">
+			<Option target="yzip"/>
+		</Unit>
+		<Unit filename="/home/yangyao/CLionProjects/yzip-2/diploma_project/getfile/get_file.cpp">
+			<Option target="yzip"/>
+		</Unit>
+		<Unit filename="/home/yangyao/CLionProjects/yzip-2/diploma_project/getfile/get_file.h">
+			<Option target="yzip"/>
+		</Unit>
+		<Unit filename="/home/yangyao/CLionProjects/yzip-2/diploma_project/is_file_exist/is_file_exist.cpp">
+			<Option target="yzip"/>
+		</Unit>
+		<Unit filename="/home/yangyao/CLionProjects/yzip-2/diploma_project/is_file_exist/is_file_exist.h">
+			<Option target="yzip"/>
+		</Unit>
+		<Unit filename="/home/yangyao/CLionProjects/yzip-2/diploma_project/lzw/lzw.cpp">
+			<Option target="yzip"/>
+		</Unit>
+		<Unit filename="/home/yangyao/CLionProjects/yzip-2/diploma_project/lzw/lzw.h">
+			<Option target="yzip"/>
+		</Unit>
+		<Unit filename="/home/yangyao/CLionProjects/yzip-2/diploma_project/package/get_cur_time.cpp">
+			<Option target="yzip"/>
+		</Unit>
+		<Unit filename="/home/yangyao/CLionProjects/yzip-2/diploma_project/package/get_cur_time.h">
+			<Option target="yzip"/>
+		</Unit>
+		<Unit filename="/home/yangyao/CLionProjects/yzip-2/diploma_project/package/mode_to_letters.cpp">
+			<Option target="yzip"/>
+		</Unit>
+		<Unit filename="/home/yangyao/CLionProjects/yzip-2/diploma_project/package/mode_to_letters.h">
+			<Option target="yzip"/>
+		</Unit>
+		<Unit filename="/home/yangyao/CLionProjects/yzip-2/diploma_project/package/pack.cpp">
+			<Option target="yzip"/>
+		</Unit>
+		<Unit filename="/home/yangyao/CLionProjects/yzip-2/diploma_project/package/pack.h">
+			<Option target="yzip"/>
+		</Unit>
+		<Unit filename="/home/yangyao/CLionProjects/yzip-2/diploma_project/size_h/size_h.cpp">
+			<Option target="yzip"/>
+		</Unit>
+		<Unit filename="/home/yangyao/CLionProjects/yzip-2/diploma_project/size_h/size_h.h">
+			<Option target="yzip"/>
+		</Unit>
+		<Unit filename="/home/yangyao/CLionProjects/yzip-2/diploma_project/verbose_info/verbose_info.cpp">
+			<Option target="yzip"/>
+		</Unit>
+		<Unit filename="/home/yangyao/CLionProjects/yzip-2/diploma_project/verbose_info/verbose_info.h">
+			<Option target="yzip"/>
+		</Unit>
+		<Unit filename="/home/yangyao/CLionProjects/yzip-2/diploma_project/version/version_etc.cpp">
+			<Option target="yzip"/>
+		</Unit>
+		<Unit filename="/home/yangyao/CLionProjects/yzip-2/diploma_project/version/version_etc.h">
+			<Option target="yzip"/>
+		</Unit>
+		<Unit filename="/home/yangyao/CLionProjects/yzip-2/diploma_project/yzip.cpp">
+			<Option target="yzip"/>
+		</Unit>
+		<Unit filename="/home/yangyao/CLionProjects/yzip-2/diploma_project/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
