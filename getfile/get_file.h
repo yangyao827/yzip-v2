@@ -21,6 +21,8 @@ using namespace std;
 #include<unistd.h>
 #include "../error/error.h"
 #include "../yzip_struct.h"
+#define IS_CUR_DICT true //是当前目录
+#define IS_NOT_CUR_DICT false //不是当前目录中
 //获取普通文件
 void get_file(YzipOptions &options, vector<FileInfo> &file_vec);
 //遍历处理所有文件以及文件夹
